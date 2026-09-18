@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trace><start t="18/09/26 16:05:40"/><l t="Info" d="18/09/26 16:06:27"><message type="Info" ts="1789743987365" appCtx="chain" thread="ForkJoinPool-1-worker-1" desc="Starting OpenDocument editor in socket mode."/></l><end t="18/09/26 16:11:20"/></trace>
